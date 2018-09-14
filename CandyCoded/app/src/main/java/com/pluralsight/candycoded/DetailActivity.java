@@ -72,8 +72,7 @@ public class DetailActivity extends AppCompatActivity {
     // ***
     // TODO - Task 4 - Share the Current Candy with an Intent
     // ***
-    @Override
-
+    
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         createShareIntent();
